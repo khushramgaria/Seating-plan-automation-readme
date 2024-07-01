@@ -12,10 +12,10 @@ The **Seating Plan Automation** website simplifies the process of creating seati
 
 1. **Data Preparation**:
    - Reference: Baba Farid Group of Institutions strategy and data.
-   - Download the student data (cultists) from the official university portal and save it in the provided format.
+   - Download the student data (cultists) from the official university portal. Also I shared the sample data in this repo.
 
 2. **Data Conversion**:
-   - Open the website [sittingplanautomation.com](http://sittingplanautomation.com).
+   - Open the website [https://sitting-plan-automation.vercel.app/](https://sitting-plan-automation.vercel.app/).
    - Click on the `Convert Excel` button at the bottom of the page.
    - Upload the downloaded cultists Excel data.
    - The tool will process and download a single Excel file containing the needed data.
