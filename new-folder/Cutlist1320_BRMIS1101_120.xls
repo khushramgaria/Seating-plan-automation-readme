@@ -1,0 +1,77 @@
+<head><title>
+
+</title><link href="../App_Themes/Theme4/font-awesome.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/Theme4/font-awesome.min.css" type="text/css" rel="stylesheet" /></head>
+
+
+<table border="1">
+    <tr>
+        <td colspan="4">
+            Cutlist for Re-appear Students
+        </td>
+    </tr>
+    <tr>
+        <td colspan="4">&nbsp;
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">College :
+        </td>
+        <td colspan="2">
+            120-Baba Farid College of Engineering & Technology
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">Branch :
+        </td>
+        <td colspan="2">
+            RADIO MEDICAL IMAGING TECHNOLOGY (1320)
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">Subject :
+        </td>
+        <td colspan="2">
+            Human Anatomy & Physiology-I (BRMIS1101)
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">Paper Id :
+        </td>
+        <td colspan="2">
+            20132001
+        </td>
+    </tr>
+    <tr>
+        <td colspan="4">&nbsp;
+        </td>
+    </tr>
+    <tr>
+        <th>Sr. No.
+        </th>
+        <th>Roll Number
+        </th>
+        <th>Subject
+        </th>
+        <th>Attendence
+        </th>
+    </tr>
+    
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl00_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl00_lblstrRolleNumber">231511826</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl00_lblSelectedSubjectTitle">Human Anatomy & Physiology-I</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+</table>
+
+
+       
+ 

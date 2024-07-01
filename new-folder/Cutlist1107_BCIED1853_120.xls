@@ -1,0 +1,497 @@
+<head><title>
+
+</title><link href="../App_Themes/Theme4/font-awesome.css" type="text/css" rel="stylesheet" /><link href="../App_Themes/Theme4/font-awesome.min.css" type="text/css" rel="stylesheet" /></head>
+
+
+<table border="1">
+    <tr>
+        <td colspan="4">
+            Cutlist for Regular Students
+        </td>
+    </tr>
+    <tr>
+        <td colspan="4">&nbsp;
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">College :
+        </td>
+        <td colspan="2">
+            120-Baba Farid College of Engineering & Technology
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">Branch :
+        </td>
+        <td colspan="2">
+            Civil Engineering (1107)
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">Subject :
+        </td>
+        <td colspan="2">
+            Disaster Management (BCIED1853)
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2">Paper Id :
+        </td>
+        <td colspan="2">
+            19110746
+        </td>
+    </tr>
+    <tr>
+        <td colspan="4">&nbsp;
+        </td>
+    </tr>
+    <tr>
+        <th>Sr. No.
+        </th>
+        <th>Roll Number
+        </th>
+        <th>Subject
+        </th>
+        <th>Attendence
+        </th>
+    </tr>
+    
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl00_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl00_lblstrRolleNumber">200120125</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl00_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl01_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl01_lblstrRolleNumber">200120127</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl01_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl02_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl02_lblstrRolleNumber">200120129</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl02_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl03_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl03_lblstrRolleNumber">200120130</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl03_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl04_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl04_lblstrRolleNumber">99200120117</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl04_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl05_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl05_lblstrRolleNumber">99200120118</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl05_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl06_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl06_lblstrRolleNumber">99200120120</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl06_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl07_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl07_lblstrRolleNumber">99200120121</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl07_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl08_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl08_lblstrRolleNumber">99200120122</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl08_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl09_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl09_lblstrRolleNumber">99200120123</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl09_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl10_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl10_lblstrRolleNumber">99200120125</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl10_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl11_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl11_lblstrRolleNumber">99200120126</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl11_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl12_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl12_lblstrRolleNumber">99200120127</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl12_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl13_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl13_lblstrRolleNumber">99200120128</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl13_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl14_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl14_lblstrRolleNumber">99200120131</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl14_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl15_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl15_lblstrRolleNumber">99200120132</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl15_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl16_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl16_lblstrRolleNumber">99200120133</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl16_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl17_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl17_lblstrRolleNumber">99200120134</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl17_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl18_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl18_lblstrRolleNumber">99200120136</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl18_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl19_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl19_lblstrRolleNumber">99200120138</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl19_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl20_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl20_lblstrRolleNumber">99200120139</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl20_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl21_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl21_lblstrRolleNumber">99200120140</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl21_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl22_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl22_lblstrRolleNumber">99200120141</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl22_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl23_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl23_lblstrRolleNumber">99200120142</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl23_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl24_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl24_lblstrRolleNumber">99200120143</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl24_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl25_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl25_lblstrRolleNumber">99200120144</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl25_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl26_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl26_lblstrRolleNumber">99200120145</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl26_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl27_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl27_lblstrRolleNumber">99200120146</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl27_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl28_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl28_lblstrRolleNumber">99200120147</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl28_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl29_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl29_lblstrRolleNumber">99200120148</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl29_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+            <tr>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl30_lblRowNumber"></span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl30_lblstrRolleNumber">99200120149</span>
+                </td>
+                <td>
+                    <span id="ctrlDownloadCullist1_rptGeneratecullist_ctl30_lblSelectedSubjectTitle">Disaster Management</span>
+                </td>
+                <td>&nbsp;
+                </td>
+            </tr>
+        
+</table>
+
+
+       
+ 
