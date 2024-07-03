@@ -21,7 +21,7 @@ The **Seating Plan Automation** website simplifies the process of creating seati
    - The tool will process and download a single Excel file containing the needed data.
 
 3. **Uploading and Confirming Data**:
-   - Refresh the page.
+   - Click `Back To Upload Excel`.
    - Click on `Choose File` and select the file that was downloaded after conversion.
    - Click on `Confirm` to proceed.
 
